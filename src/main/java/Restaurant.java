@@ -20,6 +20,7 @@ public class Restaurant {
     public boolean isRestaurantOpen() {
         return true;
         //DELETE ABOVE STATEMENT AND WRITE CODE HERE
+        //Bharathwaj
     }
 
     public LocalTime getCurrentTime(){ return  LocalTime.now(); }
